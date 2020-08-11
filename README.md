@@ -1,7 +1,7 @@
 # OCP (One Commercial Partner) AI Links
 A repository created by US OCP for public facing AI training links.  
 
-Can be accessed via: https://aka.ms/RestonNov2019AI 
+Can be accessed via: https://aka.ms/ocpailinks 
 
 ## Standard Agenda (2 day)
 
@@ -33,4 +33,4 @@ Can be accessed via: https://aka.ms/RestonNov2019AI
 
 
 Content Owner: Chris Kahrs (ckahrs@microsoft.com)<br>
-Update Date: 2019.11.6
+Update Date: 2020.08.10

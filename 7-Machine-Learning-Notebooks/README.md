@@ -21,7 +21,7 @@ Level 200 – Hands-On Understanding
 
 -   **Azure Machine Learning Service Samples (2 Hours)**
 
-    -   <https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/training/train-within-notebook>
+    -   <https://docs.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-notebooks>
     
     - <https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-1st-experiment-sdk-setup>
 

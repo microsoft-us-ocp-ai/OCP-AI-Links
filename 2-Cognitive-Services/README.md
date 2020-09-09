@@ -13,6 +13,7 @@ Documentation: https://docs.microsoft.com/en-us/azure/cognitive-services/
 **Demos**
 
   - [Computer Vision](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/)
+    - [Tutorial](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/tutorials/storage-lab-tutorial)
     - Try out some of the images that are in this folder!
 
   - [LUIS](https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/)
@@ -42,4 +43,5 @@ Documentation: https://docs.microsoft.com/en-us/azure/cognitive-services/
 **Cognitive Services Under Development**
   - These are some of the API's that are currently being tested and developed: https://www.microsoft.com/en-us/research/group/cognitive-research/
 
+Updated date: 2020.9.9
   

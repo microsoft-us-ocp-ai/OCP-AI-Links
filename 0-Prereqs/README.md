@@ -13,6 +13,8 @@
   * https://code.visualstudio.com/docs/introvideos/basics
 * Install Git
   * https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+* Microsoft Storage Explorer
+  * https://azure.microsoft.com/en-us/features/storage-explorer/ 
 
 Thank you!
 

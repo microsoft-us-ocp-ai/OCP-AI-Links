@@ -4,8 +4,8 @@
 
 * https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-create-labeling-projects
 * https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-label-images
-* https://myignite.techcommunity.microsoft.com/sessions/84507?source=sessions
-    * Video of tool
+* https://myignite.techcommunity.microsoft.com/
+    * Check back for the latest videos on using the tool
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Content Owner: Chris Kahrs (ckahrs@microsoft.com)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Update Date: 2019.11.6
@@ -41,8 +41,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Update Date: 2019.11.12
 
 ## Ethical AI
-* https://myignite.techcommunity.microsoft.com/sessions/81147?source=sessions
-*   Responsible AI: Building trustworthy, secure and transparent machine learning
+* https://myignite.techcommunity.microsoft.com/
+*   Check back for the latest sessions
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Content Owner: Chris Kahrs (ckahrs@microsoft.com)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Update Date: 2019.11.6

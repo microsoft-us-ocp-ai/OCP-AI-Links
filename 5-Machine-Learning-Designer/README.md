@@ -14,8 +14,8 @@ A repository created by US OCP for public facing AI training links.
 * https://docs.microsoft.com/en-us/azure/machine-learning/service/tutorial-designer-automobile-price-deploy
 
 * A Basic Understanding
-    * Regression Tutorial
-    * Classification Tutorial
+    * [Regression Tutorial](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-auto-train-models)
+    * [Classification Tutorial](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml)
     * Titanic Dataset Steps in MLStudio (Classic)
         * Go to https://studio.azureml.net  
         * Sign In
@@ -40,4 +40,4 @@ A repository created by US OCP for public facing AI training links.
 Thank you!
 
 Content Owner: Chris Kahrs (ckahrs@microsoft.com)<br>
-Update Date: 2019.11.6
+Update Date: 2020.9.9

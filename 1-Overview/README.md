@@ -61,12 +61,11 @@ Public facing AI training/understanding/certification/enablement links.
   * Does *[insert service]* run on Azure Gov or is it roadmapped ? *
   	* Check [here](https://azure.microsoft.com/en-us/global-infrastructure/services/?products=&regions=usgov-non-regional,us-dod-central,us-dod-east,usgov-arizona,usgov-iowa,usgov-texas,usgov-virginia ) 
 
-* **Most Recent Build Videos (spring)**
-  * https://mybuild.techcommunity.microsoft.com/sessions/76980?source=sessions#top-anchor 
-    * Eric Boyd, VP AI.  Azure AI: Making AI real for every developer and every organization
-* **Most Recent Ignite Videos (fall)**
-  * https://myignite.techcommunity.microsoft.com/sessions/81277?source=sessions
-    * Eric Boyd, VP AI.  Azure AI: Powering new possibilities for every organization
+* **Build Conference Videos**
+  * https://mybuild.microsoft.com/
+
+* **Ignite Conferences Videos**
+  * https://myignite.microsoft.com/
 
 * **Responsible and Ethical AI**
   * Tools and Weapons: The Promise and the Peril of the Digital Age (Hardcover)

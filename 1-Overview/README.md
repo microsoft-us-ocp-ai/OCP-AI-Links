@@ -8,7 +8,7 @@ Public facing AI training/understanding/certification/enablement links.
       * Explore Tab: Overview
       * Explore Tab: Solutions (AI Platform, Industry, Reference Architectures)
       * Explore Tab: Products (AI + Machine Learning)
-      * Explore Tab: Documentation (Products then AI + Machine Learning)
+      * Explore Tab: Documentation > AI + Machine Learning on the left-hand side of the screen
       * Explore Tab: Pricing (Pricing by Product)
       * Explore Tab: Training (Learning Paths, Hands-on Learning)
       * Explore Tab: All the others, focus on "More" (Trusted)
@@ -45,6 +45,7 @@ Public facing AI training/understanding/certification/enablement links.
   * https://academy.databricks.com/
   * https://microsoftcloudworkshop.com/
   * https://channel9.msdn.com/Shows/AI-Show	
+  * https://blogs.microsoft.com/ai/
   * Pre-Recorded VILT (Virtual Instructor Lead Training) Pointers
     * https://note.microsoft.com/MPW0009301-CLE_CatalogDisplayPage.html
       * Azure Machine Learning
@@ -76,6 +77,7 @@ Public facing AI training/understanding/certification/enablement links.
   * https://github.com/Azure
   * https://github.com/Azure-Samples
   * https://github.com/Microsoft/AIReferenceArchitectures
+  * https://github.com/microsoft-us-ocp-ai/
 
 
 
@@ -105,7 +107,7 @@ Public facing AI training/understanding/certification/enablement links.
 Thank you!
 
 Content Owner: Chris Kahrs (ckahrs@microsoft.com)<br>
-Update Date: 2019.11.10
+Update Date: 2020.9.9
 
 
 
